@@ -1,0 +1,8 @@
+from pathlib import Path
+
+ROUTE_JSON_PATH = Path("amazon_route_data.json")
+MAX_CUSTOMERS = 25
+VEHICLE_CAPACITY = 60
+MAX_VEHICLES = 4
+EMISSION_FACTOR = 0.25
+RANDOM_SEED = 42
